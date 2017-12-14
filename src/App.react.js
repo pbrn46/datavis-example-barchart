@@ -148,7 +148,7 @@ class App extends React.Component {
                     <div>Libraries used in this example:</div>
                     <ul>
                       <li>D3.js</li>
-                      <li>Bootstrap (tooltipes)</li>
+                      <li>Bootstrap (tooltips)</li>
                       <li>React</li>
                     </ul>
                     <p className="small">Written by Boris Wong, December 2017. MIT license.</p>
