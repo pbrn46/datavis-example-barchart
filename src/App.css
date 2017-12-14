@@ -1,0 +1,29 @@
+body {
+  background-color: #631;
+}
+
+svg .Background {
+  fill: #faf8ff;
+}
+
+svg .ChartTitle {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+svg .AxisLabel {
+  font-weight: bold;
+}
+
+svg .Bar {
+  fill: #385;
+  shape-rendering: crispEdges;
+}
+
+svg .Bar:hover {
+  fill: #5e9;
+}
+
+#ChartContainer {
+  text-align: center;
+}
