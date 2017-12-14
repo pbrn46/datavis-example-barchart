@@ -160,6 +160,10 @@ class App extends React.Component {
               <div className="modal-dialog">
                 <div className="modal-content">
                   <div className="modal-body">
+                    <p>
+                      An example of data visualization of a bar charts in d3.js
+                      with an equidistant time scale.
+                    </p>
                     <div>Libraries used in this example:</div>
                     <ul>
                       <li>D3.js</li>

@@ -1,7 +1,10 @@
 # Data Visualization Example - Bar chart
 By Boris Wong, 2017-12-12
 
-You can view the pen at https://codepen.io/PBrn46/pen/Vrddqj
+An example of data visualization of a bar charts in d3.js with an equidistant
+time scale.
+
+You can view the pen at https://codepen.io/PBrn46/full/Vrddqj/
 
 ## License - MIT
 
